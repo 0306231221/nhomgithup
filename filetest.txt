@@ -1,2 +1,6 @@
 day la file test cua main
+<<<<<<< HEAD
 Nguyen Hoang Nam
+=======
+Phan Lac An
+>>>>>>> nb
